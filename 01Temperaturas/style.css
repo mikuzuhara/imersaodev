@@ -1,7 +1,7 @@
 body {
-  font-family: 'Roboto Mono',monospace;
+  font-family: "Roboto Mono", monospace;
   min-height: 400px;
-  background-image: url('https://caelum-online-public.s3.amazonaws.com/imersao-dev-3/bg.png');
+  background-image: url("https://caelum-online-public.s3.amazonaws.com/imersao-dev-3/bg.png");
   background-color: green;
   background-size: 80vh;
   background-position: center;
@@ -15,12 +15,12 @@ body {
 }
 
 .page-title {
-  color:#ffffff;
+  color: #ffffff;
   margin: 0 0 5px;
 }
 
 .page-subtitle {
-  color:#ffffff;
+  color: #ffffff;
   margin-top: 5px;
 }
 
