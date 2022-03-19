@@ -20,7 +20,7 @@ function listaJogadores() {
   for (var i = 0; i < jogadores.length; i++) {
     if (i == indiceMaiorPontos)
       elemento +=
-        "<tr><td id='primeiro'><img src='https://s1.trrsf.com/update-1634310421/fe/zaz-app-t360-financial/_img/flags/dollar.png'><span>" +
+        "<tr><td id='primeiro'><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdgk-Vp9UI4JJonk5wSteAnMlNfWEbb3uR6tgYnj7RnlnGKRzjCI0Rg4F4y-nxlBepxog&usqp=CAU'><span>" +
         jogadores[i].nome +
         "</span></td>";
     else elemento += "<tr><td>" + jogadores[i].nome + "</td>";
